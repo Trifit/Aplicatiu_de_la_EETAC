@@ -17,6 +17,4 @@ classes, and information related, it will be a reduced version of the virtual ca
 At the end of this project, we intend to do a aproximation at the design proces, that as
 enginiers are not completly aware, but of high importance due that simplifies our work
 helping to stablish a visual stile for our aplication, a comon and standarized look in the
-diferent screens of the aplication and to stablish the limits of it without having to code
-anithing.
--
+diferent screens of the aplication and to stablish the limits of it without having to code anithing.
